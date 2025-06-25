@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/exams/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/exams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exams</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Exams</title>
+      <link>https://hziba-hakim.github.io/en/tags/exams/</link>
+    </image>
+    
+    <item>
+      <title>Study Journal – Week 4 (June 16–22)</title>
+      <link>https://hziba-hakim.github.io/en/post/04/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-exams-and-final-assessments&#34;&gt;📝 Week 4: Exams and Final Assessments&lt;/h2&gt;
+&lt;p&gt;The most intense week of the month. We had the &lt;strong&gt;mathematical logic exam&lt;/strong&gt;. The questions were challenging: propositional logic semantics, formal proofs, and formula minimization methods. I managed it, but had to do a lot of revision beforehand.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;calculus&lt;/strong&gt;, one more test remained — on integrals. I’ve been learning to choose substitutions and apply integration by parts. Categorizing problems by type really helps.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we began preparing for the final project. The task is to develop a command-line utility in Python that works with text files. I’m currently planning the architecture.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Journal – Week 3 (June 9–15)</title>
+      <link>https://hziba-hakim.github.io/en/post/03/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-tests-and-knowledge-check&#34;&gt;🧠 Week 3: Tests and Knowledge Check&lt;/h2&gt;
+&lt;p&gt;The first wave of &lt;strong&gt;midterms&lt;/strong&gt; arrived. We had a progress test in &lt;strong&gt;calculus&lt;/strong&gt; — covering derivatives, graphing, and applications. I made a mistake in the tangent line problem, but overall the result was decent.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we had a test on recursion and strings. I wrote the code quickly, but one task didn’t work properly due to an incorrect exit condition — something to improve next time.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;logic&lt;/strong&gt;, we were tested on formal derivations and formula transformations. It was tough but engaging. I realized how rigorous logical reasoning forms the foundation for algorithms.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

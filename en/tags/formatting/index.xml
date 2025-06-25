@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formatting | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/formatting/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/formatting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Formatting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Formatting</title>
+      <link>https://hziba-hakim.github.io/en/tags/formatting/</link>
+    </image>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://hziba-hakim.github.io/en/publication/02/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-markup-languages&#34;&gt;🧾 What Are Markup Languages?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markup languages&lt;/strong&gt; are systems that allow users to describe the structure and formatting of text. They are used to prepare documents, web pages, scientific reports, and presentations.&lt;/p&gt;
+&lt;p&gt;Unlike visual text editors (WYSIWYG), markup relies on &lt;strong&gt;tags and commands&lt;/strong&gt; that define the layout and content structure.&lt;/p&gt;
+&lt;p&gt;Examples of markup languages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML (for web pages),&lt;/li&gt;
+&lt;li&gt;Markdown (for lightweight formatting),&lt;/li&gt;
+&lt;li&gt;XML (for data representation),&lt;/li&gt;
+&lt;li&gt;LaTeX (for scientific and technical documents).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-what-is-latex&#34;&gt;✒️ What Is LaTeX?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; (pronounced “Lah-tech”) is a markup language and typesetting system designed for producing scientific, technical, and mathematical documents. It is based on the TeX system developed by Donald Knuth.&lt;/p&gt;
+&lt;p&gt;LaTeX allows you to create high-quality documents with precise control over the formatting of equations, tables, figures, and text structure.&lt;/p&gt;
+&lt;h2 id=&#34;-why-is-latex-important&#34;&gt;🧠 Why Is LaTeX Important?&lt;/h2&gt;
+&lt;p&gt;LaTeX is indispensable in the academic world, especially in the following cases:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📐 Preparing theses, dissertations, papers, and reports;&lt;/li&gt;
+&lt;li&gt;🧮 Writing complex mathematical expressions and formulas;&lt;/li&gt;
+&lt;li&gt;📄 Creating presentations, diagrams, graphs, and tables;&lt;/li&gt;
+&lt;li&gt;🔍 Meeting strict style, bibliography, and structural requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-key-features-of-latex&#34;&gt;🛠 Key Features of LaTeX&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Command-based structure (&lt;code&gt;\section{}&lt;/code&gt;, &lt;code&gt;\textbf{}&lt;/code&gt;, &lt;code&gt;\frac{}&lt;/code&gt;, etc.);&lt;/li&gt;
+&lt;li&gt;Mathematical formatting: equations can be inline or displayed;&lt;/li&gt;
+&lt;li&gt;Automatic generation of table of contents, bibliography, numbering of formulas and figures;&lt;/li&gt;
+&lt;li&gt;Flexible class and package system for customization;&lt;/li&gt;
+&lt;li&gt;Support for journal and conference publication standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-example-use-cases&#34;&gt;📘 Example Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Physicists and mathematicians use LaTeX to publish formula-heavy research;&lt;/li&gt;
+&lt;li&gt;Students format term papers and theses according to official standards;&lt;/li&gt;
+&lt;li&gt;Universities publish lecture materials and manuals;&lt;/li&gt;
+&lt;li&gt;Scientific software developers write documentation and technical reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-advantages-and-disadvantages&#34;&gt;📦 Advantages and Disadvantages&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;High print quality and professional typesetting;&lt;/li&gt;
+&lt;li&gt;Clear separation of content structure and styling;&lt;/li&gt;
+&lt;li&gt;Automation and template reuse;&lt;/li&gt;
+&lt;li&gt;Universal and cross-platform compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Requires time to learn the syntax;&lt;/li&gt;
+&lt;li&gt;No visual editing interface (though Overleaf provides one);&lt;/li&gt;
+&lt;li&gt;Syntax errors can be hard to debug.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is a powerful tool for those who value precision, structure, and professional text formatting. Despite its learning curve, mastering LaTeX is worthwhile for anyone involved in academic or technical writing. It has become the de facto standard in the scientific community, especially in the natural and technical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

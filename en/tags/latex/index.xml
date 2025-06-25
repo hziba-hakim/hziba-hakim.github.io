@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/latex/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>LaTeX</title>
+      <link>https://hziba-hakim.github.io/en/tags/latex/</link>
+    </image>
+    
+    <item>
+      <title>Working with Bibliography</title>
+      <link>https://hziba-hakim.github.io/en/publication/03/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-what-is-a-bibliography&#34;&gt;📚 What Is a Bibliography?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;bibliography&lt;/strong&gt; is a structured list of sources used in preparing an academic text. It is formatted according to established standards (GOST, APA, MLA, IEEE, etc.) and serves the following purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Confirming citations and borrowed ideas;&lt;/li&gt;
+&lt;li&gt;Guiding readers to source materials;&lt;/li&gt;
+&lt;li&gt;Demonstrating the depth of research on the topic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A properly formatted bibliography is an essential part of any academic, scholarly, or research work.&lt;/p&gt;
+&lt;h2 id=&#34;-how-is-a-bibliography-created&#34;&gt;🛠 How Is a Bibliography Created?&lt;/h2&gt;
+&lt;p&gt;The process includes several steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Collecting sources&lt;/strong&gt; — articles, books, dissertations, web materials, standards, etc.;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formalizing descriptions&lt;/strong&gt; — formatting each source according to citation rules;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sorting&lt;/strong&gt; — alphabetically, by source type, or in the order of citation;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In-text citation&lt;/strong&gt; — linking each source to relevant parts of the main text.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-tools-for-managing-sources&#34;&gt;🔧 Tools for Managing Sources&lt;/h2&gt;
+&lt;p&gt;Efficient bibliography management often relies on specialized tools:&lt;/p&gt;
+&lt;h3 id=&#34;-bibliography-managers&#34;&gt;📦 Bibliography Managers:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zotero&lt;/strong&gt; — a user-friendly tool with export options for various formats;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — widely used in natural sciences;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JabRef&lt;/strong&gt; — ideal for working with BibTeX databases in LaTeX;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EndNote&lt;/strong&gt; — a professional solution for large-scale research projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-markup-systems&#34;&gt;🧮 Markup Systems:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;BibTeX/BibLaTeX&lt;/strong&gt; — used with LaTeX to automatically cite and generate bibliographies;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Citation plugins&lt;/strong&gt; — available for Word, Google Docs, Overleaf, integrated with Zotero and Mendeley.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-citation-formats&#34;&gt;📐 Citation Formats&lt;/h2&gt;
+&lt;p&gt;Different citation systems require different formatting approaches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GOST&lt;/strong&gt; — used in Russia, requires full details (author, title, source, year, publisher, pages);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APA&lt;/strong&gt; — common in psychology and social sciences, emphasizes publication date;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEEE&lt;/strong&gt; — used in engineering and computer science;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MLA&lt;/strong&gt; — used in the humanities, includes author and page references.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-helpful-tips&#34;&gt;📌 Helpful Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 Record sources as soon as you use them;&lt;/li&gt;
+&lt;li&gt;🔍 Verify the accuracy and reliability of each link;&lt;/li&gt;
+&lt;li&gt;📚 For online materials, save the access date;&lt;/li&gt;
+&lt;li&gt;🧩 Maintain consistent citation style throughout your work;&lt;/li&gt;
+&lt;li&gt;📝 Don’t forget about self-citation and academic integrity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h2&gt;
+&lt;p&gt;A bibliography is not just a formality — it reflects your academic rigor. Proper source documentation makes writing easier, boosts credibility, and enhances the professionalism of your text. Modern tools automate much of the process — the key is to learn how to use them effectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://hziba-hakim.github.io/en/publication/02/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-markup-languages&#34;&gt;🧾 What Are Markup Languages?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markup languages&lt;/strong&gt; are systems that allow users to describe the structure and formatting of text. They are used to prepare documents, web pages, scientific reports, and presentations.&lt;/p&gt;
+&lt;p&gt;Unlike visual text editors (WYSIWYG), markup relies on &lt;strong&gt;tags and commands&lt;/strong&gt; that define the layout and content structure.&lt;/p&gt;
+&lt;p&gt;Examples of markup languages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML (for web pages),&lt;/li&gt;
+&lt;li&gt;Markdown (for lightweight formatting),&lt;/li&gt;
+&lt;li&gt;XML (for data representation),&lt;/li&gt;
+&lt;li&gt;LaTeX (for scientific and technical documents).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-what-is-latex&#34;&gt;✒️ What Is LaTeX?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; (pronounced “Lah-tech”) is a markup language and typesetting system designed for producing scientific, technical, and mathematical documents. It is based on the TeX system developed by Donald Knuth.&lt;/p&gt;
+&lt;p&gt;LaTeX allows you to create high-quality documents with precise control over the formatting of equations, tables, figures, and text structure.&lt;/p&gt;
+&lt;h2 id=&#34;-why-is-latex-important&#34;&gt;🧠 Why Is LaTeX Important?&lt;/h2&gt;
+&lt;p&gt;LaTeX is indispensable in the academic world, especially in the following cases:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📐 Preparing theses, dissertations, papers, and reports;&lt;/li&gt;
+&lt;li&gt;🧮 Writing complex mathematical expressions and formulas;&lt;/li&gt;
+&lt;li&gt;📄 Creating presentations, diagrams, graphs, and tables;&lt;/li&gt;
+&lt;li&gt;🔍 Meeting strict style, bibliography, and structural requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-key-features-of-latex&#34;&gt;🛠 Key Features of LaTeX&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Command-based structure (&lt;code&gt;\section{}&lt;/code&gt;, &lt;code&gt;\textbf{}&lt;/code&gt;, &lt;code&gt;\frac{}&lt;/code&gt;, etc.);&lt;/li&gt;
+&lt;li&gt;Mathematical formatting: equations can be inline or displayed;&lt;/li&gt;
+&lt;li&gt;Automatic generation of table of contents, bibliography, numbering of formulas and figures;&lt;/li&gt;
+&lt;li&gt;Flexible class and package system for customization;&lt;/li&gt;
+&lt;li&gt;Support for journal and conference publication standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-example-use-cases&#34;&gt;📘 Example Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Physicists and mathematicians use LaTeX to publish formula-heavy research;&lt;/li&gt;
+&lt;li&gt;Students format term papers and theses according to official standards;&lt;/li&gt;
+&lt;li&gt;Universities publish lecture materials and manuals;&lt;/li&gt;
+&lt;li&gt;Scientific software developers write documentation and technical reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-advantages-and-disadvantages&#34;&gt;📦 Advantages and Disadvantages&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;High print quality and professional typesetting;&lt;/li&gt;
+&lt;li&gt;Clear separation of content structure and styling;&lt;/li&gt;
+&lt;li&gt;Automation and template reuse;&lt;/li&gt;
+&lt;li&gt;Universal and cross-platform compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Requires time to learn the syntax;&lt;/li&gt;
+&lt;li&gt;No visual editing interface (though Overleaf provides one);&lt;/li&gt;
+&lt;li&gt;Syntax errors can be hard to debug.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is a powerful tool for those who value precision, structure, and professional text formatting. Despite its learning curve, mastering LaTeX is worthwhile for anyone involved in academic or technical writing. It has become the de facto standard in the scientific community, especially in the natural and technical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

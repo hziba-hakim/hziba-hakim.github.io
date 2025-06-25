@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/computing/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computing</title>
+      <link>https://hziba-hakim.github.io/en/tags/computing/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Technologies in Scientific Research</title>
+      <link>https://hziba-hakim.github.io/en/publication/05/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-what-are-cloud-technologies&#34;&gt;☁️ What Are Cloud Technologies?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Cloud technologies&lt;/strong&gt; refer to the storage, processing, and analysis of data via remote servers accessible over the internet. Instead of installing and running software on local machines, cloud services offer access to powerful data center resources.&lt;/p&gt;
+&lt;h2 id=&#34;-why-are-they-important-in-science&#34;&gt;🔬 Why Are They Important in Science?&lt;/h2&gt;
+&lt;p&gt;Modern scientific problems require massive memory capacity, computing power, and flexibility in data management. Cloud platforms offer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 Scalability — resources can be increased on demand;&lt;/li&gt;
+&lt;li&gt;💾 Data storage — terabytes of information without local overload;&lt;/li&gt;
+&lt;li&gt;⚙️ High-performance computing — for running models, simulations, neural networks;&lt;/li&gt;
+&lt;li&gt;🤝 Collaboration — distributed teams, shared projects, automated workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-examples-of-cloud-platforms&#34;&gt;🧰 Examples of Cloud Platforms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Cloud Platform (GCP)&lt;/strong&gt; — tools for analytics, machine learning, databases, and storage;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt; — widely used for scientific simulations, image processing, and APIs;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Azure&lt;/strong&gt; — supports high-performance computing, AI platforms, and analytics;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yandex Cloud / VK Cloud&lt;/strong&gt; — Russian solutions with support for containers and big data storage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-are-they-used-in-research&#34;&gt;🧪 How Are They Used in Research?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Genomics&lt;/strong&gt; — cloud computing accelerates DNA sequence analysis;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics&lt;/strong&gt; — simulating particle collisions or plasma behavior;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climatology&lt;/strong&gt; — modeling climate change over decades;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social sciences&lt;/strong&gt; — processing large-scale sociological and economic data;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Education and online labs&lt;/strong&gt; — access to experimental environments without physical setups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-security-and-control&#34;&gt;🔒 Security and Control&lt;/h2&gt;
+&lt;p&gt;Cloud services offer multi-layered data protection: encryption, backups, and access control. However, it is essential to configure privacy policies properly and operate within ethical and legal frameworks — especially with personal or medical data.&lt;/p&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Cloud technologies are opening new horizons for researchers. They make science more accessible, flexible, and scalable, lower the barriers to complex computation, and allow scientists to focus on solving core problems rather than managing infrastructure. In the digital age, the cloud is not a luxury — it&amp;rsquo;s a powerful tool for research productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://hziba-hakim.github.io/en/publication/04/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-is-scientific-programming&#34;&gt;🔬 What Is Scientific Programming?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; is the field where programming languages are used to solve problems in natural, technical, and mathematical sciences. It includes modeling, numerical computation, data processing, simulations, and result visualization.&lt;/p&gt;
+&lt;p&gt;Unlike general-purpose programming, scientific programming emphasizes &lt;strong&gt;mathematical precision&lt;/strong&gt;, &lt;strong&gt;algorithmic efficiency&lt;/strong&gt;, and &lt;strong&gt;ease of handling numeric arrays and formulas&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-key-requirements-for-languages&#34;&gt;🧮 Key Requirements for Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for &lt;strong&gt;numerical methods&lt;/strong&gt; (linear algebra, differential equations, statistics);&lt;/li&gt;
+&lt;li&gt;High &lt;strong&gt;performance&lt;/strong&gt; when processing large datasets;&lt;/li&gt;
+&lt;li&gt;Availability of &lt;strong&gt;libraries for scientific computations&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;Convenient handling of &lt;strong&gt;arrays, matrices, and plots&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;Integration with &lt;strong&gt;other systems&lt;/strong&gt; (databases, LaTeX, Excel, visualization tools).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-popular-scientific-programming-languages&#34;&gt;🛠 Popular Scientific Programming Languages&lt;/h2&gt;
+&lt;h3 id=&#34;-python&#34;&gt;🐍 Python&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;One of the most in-demand languages in scientific fields;&lt;/li&gt;
+&lt;li&gt;Libraries: NumPy, SciPy, Matplotlib, Pandas, SymPy;&lt;/li&gt;
+&lt;li&gt;Easy syntax + high extensibility;&lt;/li&gt;
+&lt;li&gt;Used in mathematics, bioinformatics, engineering, AI, and machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-matlab&#34;&gt;⚙️ MATLAB&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Specialized in numerical analysis, linear algebra, and visualization;&lt;/li&gt;
+&lt;li&gt;Common in engineering, signal processing, and control systems;&lt;/li&gt;
+&lt;li&gt;Built-in tools for simulations, modeling, and GUI prototyping.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-r&#34;&gt;📈 R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Language for statistics and data analysis;&lt;/li&gt;
+&lt;li&gt;Extendable with libraries like ggplot2, dplyr, caret, Shiny;&lt;/li&gt;
+&lt;li&gt;Widely used in biostatistics, econometrics, and sociology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-julia&#34;&gt;🧪 Julia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A young language focused on high-performance computing;&lt;/li&gt;
+&lt;li&gt;Faster than Python and R due to compilation and parallelism;&lt;/li&gt;
+&lt;li&gt;Suitable for numerical modeling, physics, and computational biology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-fortran&#34;&gt;🧵 Fortran&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A classic language for scientific and engineering calculations;&lt;/li&gt;
+&lt;li&gt;Still used in climate modeling, physics, and computational mechanics;&lt;/li&gt;
+&lt;li&gt;High speed and optimized for HPC clusters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-cc-and-java&#34;&gt;☕ C/C++ and Java&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used when maximum performance is critical;&lt;/li&gt;
+&lt;li&gt;Often serve as the basis for numerical libraries and complex simulators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-application-areas&#34;&gt;📦 Application Areas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🧬 Biology and medicine: growth models, genetics, image analysis;&lt;/li&gt;
+&lt;li&gt;🌡 Physics and chemistry: molecular simulations, plasma, thermodynamics;&lt;/li&gt;
+&lt;li&gt;📊 Statistics and economics: regression analysis, forecasting;&lt;/li&gt;
+&lt;li&gt;🚀 Engineering: process modeling, robotics control, structural stability calculations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are the foundation of modern scientific progress. The right choice of language depends on the application area, project goals, and performance needs. Regardless of the language, mastering at least one science-oriented tool is essential for any researcher or student working at the intersection of science and technology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

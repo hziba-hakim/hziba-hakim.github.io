@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/ci/cd/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>CI/CD</title>
+      <link>https://hziba-hakim.github.io/en/tags/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
+      <link>https://hziba-hakim.github.io/en/publication/01/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-cicd&#34;&gt;🚀 What Is CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD (Continuous Integration / Continuous Deployment)&lt;/strong&gt; is a practice of automating stages in the software development lifecycle, including build, test, and delivery. It is a cornerstone of the &lt;strong&gt;DevOps&lt;/strong&gt; methodology, aimed at delivering updates quickly and reliably to users.&lt;/p&gt;
+&lt;h2 id=&#34;-continuous-integration-ci&#34;&gt;🔁 Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; means regularly merging code changes into the main branch, followed by automatic checks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developers commit to the shared repository daily or more frequently;&lt;/li&gt;
+&lt;li&gt;The CI system runs automated tests and builds;&lt;/li&gt;
+&lt;li&gt;Errors are detected early, reducing the cost of fixing them;&lt;/li&gt;
+&lt;li&gt;Code quality improves and teamwork becomes smoother.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Popular tools: GitHub Actions, GitLab CI, Jenkins, CircleCI.&lt;/p&gt;
+&lt;h2 id=&#34;-continuous-deployment-cd&#34;&gt;🚚 Continuous Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; extends CI by automatically pushing tested code to a live environment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After successful CI, changes are published to staging or production;&lt;/li&gt;
+&lt;li&gt;Time between development and feature release is minimized;&lt;/li&gt;
+&lt;li&gt;The manual release phase is eliminated, reducing human error risks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A variant — &lt;strong&gt;Continuous Delivery&lt;/strong&gt; — involves manual approval before final deployment.&lt;/p&gt;
+&lt;h2 id=&#34;-benefits-of-cicd-implementation&#34;&gt;🔧 Benefits of CI/CD Implementation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⏱ Faster time-to-market for new features;&lt;/li&gt;
+&lt;li&gt;🛠 Improved build stability and reliability;&lt;/li&gt;
+&lt;li&gt;✅ Immediate feedback from testing and monitoring;&lt;/li&gt;
+&lt;li&gt;🤝 Better collaboration between Dev and Ops teams;&lt;/li&gt;
+&lt;li&gt;📈 Enhanced scalability as the project grows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-where-is-cicd-used&#34;&gt;📦 Where Is CI/CD Used?&lt;/h2&gt;
+&lt;p&gt;CI/CD is applied across many development areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web applications and websites;&lt;/li&gt;
+&lt;li&gt;Microservices architectures;&lt;/li&gt;
+&lt;li&gt;Mobile app development;&lt;/li&gt;
+&lt;li&gt;Infrastructure as Code (IaC);&lt;/li&gt;
+&lt;li&gt;Scientific computing and data analytics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD is not just a set of tools — it&amp;rsquo;s a &lt;strong&gt;development culture&lt;/strong&gt; where reliability, speed, and automation are essential. It requires discipline, infrastructure setup, and team adaptation, but in the long run, it makes development processes more predictable, transparent, and efficient.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

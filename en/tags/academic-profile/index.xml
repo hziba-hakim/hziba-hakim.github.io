@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Profile | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/tags/academic-profile/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/tags/academic-profile/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Profile</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic Profile</title>
+      <link>https://hziba-hakim.github.io/en/tags/academic-profile/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://hziba-hakim.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-do-researchers-need-a-personal-website&#34;&gt;🎓 Why Do Researchers Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In the era of digital science and open access, more and more researchers are creating &lt;strong&gt;personal websites&lt;/strong&gt; to showcase their projects, publications, biographies, and courses in one convenient space. A personal website is not just a business card — it&amp;rsquo;s a powerful tool for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Academic communication&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sharing research results and presentations&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building an academic portfolio&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promoting your research and networking with colleagues&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;⚙️ Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (now called &lt;em&gt;Hugo Scholar&lt;/em&gt;) is a professional template built on the Hugo static site generator, designed specifically for researchers, educators, and students.&lt;/p&gt;
+&lt;p&gt;Key advantages of Hugo Academic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Ready-made templates for bios, CVs, publications, courses, projects, and blogs;&lt;/li&gt;
+&lt;li&gt;🌐 Multilingual support and SEO optimization;&lt;/li&gt;
+&lt;li&gt;📊 Integration with Google Scholar, ORCID, GitHub, Twitter, and other services;&lt;/li&gt;
+&lt;li&gt;📚 Display of bibliographies, DOIs, preprints, and publication metadata;&lt;/li&gt;
+&lt;li&gt;⚡️ Fast load times and offline access due to its static site nature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-what-can-you-include-on-the-website&#34;&gt;🧩 What Can You Include on the Website?&lt;/h2&gt;
+&lt;p&gt;A Hugo Academic site is organized into sections, each serving a specific content type. A researcher can use the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biography&lt;/strong&gt;: photo, brief description of interests, academic background;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Education and Experience&lt;/strong&gt;: alma mater, internships, teaching roles;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: journal articles, conferences, book chapters, preprints;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: current research or IT initiatives;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Courses&lt;/strong&gt;: student materials, lecture links, assignments;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: short notes on research, literature reviews, updates;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: email, social media, maps, contact forms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-who-is-it-for&#34;&gt;🌍 Who Is It For?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Early-career researchers&lt;/strong&gt; — to showcase their first works and internships;&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Educators&lt;/strong&gt; — to host course materials, schedules, and resources;&lt;/li&gt;
+&lt;li&gt;🔬 &lt;strong&gt;Graduate and postgraduate students&lt;/strong&gt; — to build portfolios and attract attention to their research;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Professors and researchers&lt;/strong&gt; — to organize their scholarly output.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a website with Hugo Academic is a modern and professional way to present yourself as a researcher. It minimizes technical hurdles, supports all essential academic functions, and helps build a strong digital presence in the scientific community. A well-structured site shows that you not only publish papers but also know how to communicate your work effectively.&lt;/p&gt;
+&lt;p&gt;If you aim to make your academic career more visible, Hugo Academic is an excellent place to start.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

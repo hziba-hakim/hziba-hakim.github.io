@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | hziba-hakim</title>
+    <link>https://hziba-hakim.github.io/en/post/</link>
+      <atom:link href="https://hziba-hakim.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hziba-hakim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://hziba-hakim.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Study Journal – Week 4 (June 16–22)</title>
+      <link>https://hziba-hakim.github.io/en/post/04/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-exams-and-final-assessments&#34;&gt;📝 Week 4: Exams and Final Assessments&lt;/h2&gt;
+&lt;p&gt;The most intense week of the month. We had the &lt;strong&gt;mathematical logic exam&lt;/strong&gt;. The questions were challenging: propositional logic semantics, formal proofs, and formula minimization methods. I managed it, but had to do a lot of revision beforehand.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;calculus&lt;/strong&gt;, one more test remained — on integrals. I’ve been learning to choose substitutions and apply integration by parts. Categorizing problems by type really helps.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we began preparing for the final project. The task is to develop a command-line utility in Python that works with text files. I’m currently planning the architecture.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Journal – Week 3 (June 9–15)</title>
+      <link>https://hziba-hakim.github.io/en/post/03/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-tests-and-knowledge-check&#34;&gt;🧠 Week 3: Tests and Knowledge Check&lt;/h2&gt;
+&lt;p&gt;The first wave of &lt;strong&gt;midterms&lt;/strong&gt; arrived. We had a progress test in &lt;strong&gt;calculus&lt;/strong&gt; — covering derivatives, graphing, and applications. I made a mistake in the tangent line problem, but overall the result was decent.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we had a test on recursion and strings. I wrote the code quickly, but one task didn’t work properly due to an incorrect exit condition — something to improve next time.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;logic&lt;/strong&gt;, we were tested on formal derivations and formula transformations. It was tough but engaging. I realized how rigorous logical reasoning forms the foundation for algorithms.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Journal – Week 2 (June 2–8)</title>
+      <link>https://hziba-hakim.github.io/en/post/02/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-increasing-complexity&#34;&gt;📚 Week 2: Increasing Complexity&lt;/h2&gt;
+&lt;p&gt;This week in &lt;strong&gt;calculus&lt;/strong&gt; we had practical sessions on applying derivatives to function analysis. We learned how to find extrema, sketch graphs, and analyze concavity. I realized that visualization is essential — started using graphing calculators.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we moved on to working with arrays and strings. It was especially interesting to solve problems related to character counting and sorting — I could feel my algorithmic thinking starting to take shape.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;logic&lt;/strong&gt;, we focused on formal proofs: axioms, inference rules, deduction. I got a bit tangled up in the formalism, but the instructor gave a helpful breakdown of common mistakes.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Journal – Week 1 (May 26 – June 1)</title>
+      <link>https://hziba-hakim.github.io/en/post/01/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hziba-hakim.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-diving-into-the-basics&#34;&gt;✍️ Week 1: Diving into the Basics&lt;/h2&gt;
+&lt;p&gt;This week marked the beginning of an in-depth exploration of &lt;strong&gt;mathematical analysis&lt;/strong&gt;: limits, derivatives, and their geometric interpretation. The instructor provided valuable practice on derivatives of complex functions.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;programming&lt;/strong&gt;, we studied recursion and went through several classical problems: factorial, Fibonacci numbers, binary search. We coded in Python — it became clearer how to call functions recursively and manage stack depth.&lt;/p&gt;
+&lt;p&gt;We also started a new module in &lt;strong&gt;mathematical logic&lt;/strong&gt; — covering basic logical connectives and building truth tables. It’s fascinating how strictly and formally ordinary “if-then” statements can be described.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
